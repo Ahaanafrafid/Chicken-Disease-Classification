@@ -18,5 +18,5 @@ class PrepareBaseModelConfig:
     params_image_size: tuple
     params_learning_rate: float
     params_include_top: bool
-    params_weight: str
+    params_weights: str
     params_classes: int

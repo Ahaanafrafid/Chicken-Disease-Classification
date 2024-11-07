@@ -1,7 +1,8 @@
 from src.ChickenDiseaseClassification.config.configuration import ConfigurationManager
-from src.ChickenDiseaseClassification.components.prepare_base_model import prepare_base_model
+#from src.ChickenDiseaseClassification.components.prepare_base_model import prepare_base_model
 from src.ChickenDiseaseClassification import logger
 from src.ChickenDiseaseClassification.components.prepare_base_model import PrepareBaseModel
+
 
 
 

@@ -11,3 +11,7 @@ This project is dedicated to creating a machine learning model that can effectiv
 6. update the pipeline
 7. update the main.py
 8. update the dvc.yaml
+
+## 3. Create ECR repo to store/save docker image
+    - save the URI - 180294196901.dkr.ecr.us-east-2.amazonaws.com/chickendiseaseclassification
+    
